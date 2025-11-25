@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbderaoufSouissi&show_icons=true&locale=en&layout=compact" alt="AbderaoufSouissi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbderaoufSouissi&show_icons=true&locale=en" alt="AbderaoufSouissi" /></p>
+<p>&nbsp;
 
