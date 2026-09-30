@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abderaouf Souissi
 
-### A passionate Java Full Stack developer
+### A passionate Java Developer
 
 - 📫 How to reach me **abderaouf.souissi@outlook.com**
 
